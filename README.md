@@ -36,27 +36,14 @@ FAL_KEY="paste your key here."
 - Run the following command to install project dependencies:
 
 ```bash
-npm install
+npm install --force
 ```
 - Run the following command to run the project based on your OS.
 
-
-Windows:
 ```bash
 npm run dev:win
 ```
-or
-```bash
-yarn dev
-```
-or
-```bash
-pnpm dev
-```
-or
-```bash
-bun dev
-```
+
 
 
 Open [http://localhost:3000](http://localhost:3000) or the specified URL in the terminal, with your browser to see the result.
