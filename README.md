@@ -5,7 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 ## Demo
-[![Watch the video](./logo/image.png)](./videos/Demo.mp4)
+<video src="./videos/Demo.mp4" width="320" height="240" controls></video>
+
+
 ## Getting Started
 To get started with the project, follow these steps:<br><br>
 **1. Clone the repository**:
